@@ -1,4 +1,4 @@
-<img width="1919" height="819" alt="image" src="https://github.com/user-attachments/assets/711067e2-caa8-4527-bb8e-05a30b5dcacd" /># 🚦 Road Accidents Analysis in India
+<img width="1919" height="819" alt="image" src="https://github.com/user-attachments/assets/711067e2-caa8-4527-bb8e-05a30b5dcacd" />#  Road Accidents Analysis in India
 
 This project is a **Streamlit Dashboard** that analyzes road accident data in India.  
 It provides interactive visualizations to explore accident patterns based on factors like vehicle type, area, weather conditions, day of the week, casualties, and more.
@@ -7,7 +7,7 @@ It provides interactive visualizations to explore accident patterns based on fac
 
 
 
----
+
 
 ##  Installation & Setup
 
