@@ -5,21 +5,11 @@ It provides interactive visualizations to explore accident patterns based on fac
 
 ---
 
-## 📂 Project Structure
-ROAD-ACCIDENTS-ANALYSIS/
-│
-├── data/
-│ └── RTA Dataset.csv # Dataset used in the project
-├── app.py # Main Streamlit app
-├── dashboard.py # Additional dashboard version
-├── requirements.txt # Python dependencies
-└── README.md # Project documentation
-
 
 
 ---
 
-## ⚙️ Installation & Setup
+##  Installation & Setup
 
 ### 1. Clone the repository
 ```bash
